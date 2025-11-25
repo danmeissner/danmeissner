@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @danmeissner
-- 👀 I’m interested in PowerBI
+- 👀 I’m interested in PowerBI and Microsoft Fabric
 - 🌱 I’m currently learning anything I can.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
